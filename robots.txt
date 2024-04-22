@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://banana4d-1.com/sitemap.xml
+Sitemap: https://banana4d-1.com/sitemap.xml
